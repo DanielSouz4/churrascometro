@@ -13,7 +13,11 @@
 
 ## 💻 Sobre o projeto
 
-Um simples programa que calcula a quantidade de carne e bebidas necessárias pra um churrasco baseado no numero de Adultos, criancas e a duração do churrasco.
+Um simples programa que calcula a quantidade de carne e bebidas necessárias pra um churrasco baseado no número de adultos, crianças e horas do churrasco.
+
+<a href="https://danielsouz4.github.io/churrascometro/">
+Clique aqui para testar!
+</a>
 
 
 ## 🎨 Layout
@@ -30,7 +34,7 @@ Teste clicando aqui!
 
 ## 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+Feito com as seguintes ferramentas:
 
 -   HTML
 -   CSS
